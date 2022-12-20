@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>IMG/qrcodeWhats.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>giphy.gif</file>
+  </qresource>
+</RCC>
